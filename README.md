@@ -32,6 +32,8 @@ $ cd oh-my-repos
 
 **In the `.env` file, replace the token and the username with yours**
 
+**To generate a token, go ahead and generate one from here: [Generate GitHub Token](https://github.com/settings/tokens)**
+
 To install and set up the library, run:
 
 ```sh
