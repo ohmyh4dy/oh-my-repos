@@ -43,5 +43,5 @@ $ npm i -g
 ## Usage
 
 ```sh
-$ ohmyrepo
+$ ohmyrepos
 ```
